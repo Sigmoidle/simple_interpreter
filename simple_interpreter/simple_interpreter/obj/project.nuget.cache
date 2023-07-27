@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PzpZIwlUxenvf0lT5Sri235xxkL+EQ1wfHwYiOaQIa6V62eW10fzR7Hvoj3R399kqLOOvRx91vFLQT5ucHhSTw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\benjo\\OneDrive\\Documents\\simple_interpreter\\main\\simple_interpreter\\simple_interpreter\\simple_interpreter\\simple_interpreter.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\benjo\\.nuget\\packages\\fsharp.core\\7.0.0\\fsharp.core.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
